@@ -1,3 +1,5 @@
+#Link to Question 2125: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+
 class Solution:
     def numberOfBeams(self,bank: List[str]) -> int:
         beams=0
